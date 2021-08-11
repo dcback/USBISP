@@ -1,0 +1,2 @@
+1)  AVRDUDESS hex Programmer(https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/)로 펌웨어(https://www.fischl.de/usbasp/)를 받아 최신 것으로 Upload한다
+2)  USB D-라인의 PD3의 연결을 끊는다(https://irq5.io/2017/07/25/making-usbasp-chinese-clones-usable/), pinOut(https://github.com/MCUdude/MiniCore#pinout)
